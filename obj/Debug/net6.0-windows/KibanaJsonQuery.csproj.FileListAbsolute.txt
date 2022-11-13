@@ -1,0 +1,17 @@
+C:\Users\akoka\Desktop\elastic\KibanaJsonQuery\bin\Debug\net6.0-windows\KibanaJsonQuery.exe
+C:\Users\akoka\Desktop\elastic\KibanaJsonQuery\bin\Debug\net6.0-windows\KibanaJsonQuery.deps.json
+C:\Users\akoka\Desktop\elastic\KibanaJsonQuery\bin\Debug\net6.0-windows\KibanaJsonQuery.runtimeconfig.json
+C:\Users\akoka\Desktop\elastic\KibanaJsonQuery\bin\Debug\net6.0-windows\KibanaJsonQuery.dll
+C:\Users\akoka\Desktop\elastic\KibanaJsonQuery\bin\Debug\net6.0-windows\KibanaJsonQuery.pdb
+C:\Users\akoka\Desktop\elastic\KibanaJsonQuery\obj\Debug\net6.0-windows\KibanaJsonQuery.csproj.AssemblyReference.cache
+C:\Users\akoka\Desktop\elastic\KibanaJsonQuery\obj\Debug\net6.0-windows\KibanaJsonQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akoka\Desktop\elastic\KibanaJsonQuery\obj\Debug\net6.0-windows\KibanaJsonQuery.AssemblyInfoInputs.cache
+C:\Users\akoka\Desktop\elastic\KibanaJsonQuery\obj\Debug\net6.0-windows\KibanaJsonQuery.AssemblyInfo.cs
+C:\Users\akoka\Desktop\elastic\KibanaJsonQuery\obj\Debug\net6.0-windows\KibanaJsonQuery.csproj.CoreCompileInputs.cache
+C:\Users\akoka\Desktop\elastic\KibanaJsonQuery\obj\Debug\net6.0-windows\KibanaJsonQuery.dll
+C:\Users\akoka\Desktop\elastic\KibanaJsonQuery\obj\Debug\net6.0-windows\refint\KibanaJsonQuery.dll
+C:\Users\akoka\Desktop\elastic\KibanaJsonQuery\obj\Debug\net6.0-windows\KibanaJsonQuery.pdb
+C:\Users\akoka\Desktop\elastic\KibanaJsonQuery\obj\Debug\net6.0-windows\KibanaJsonQuery.genruntimeconfig.cache
+C:\Users\akoka\Desktop\elastic\KibanaJsonQuery\obj\Debug\net6.0-windows\ref\KibanaJsonQuery.dll
+C:\Users\akoka\Desktop\elastic\KibanaJsonQuery\obj\Debug\net6.0-windows\KibanaJsonQuery.Form1.resources
+C:\Users\akoka\Desktop\elastic\KibanaJsonQuery\obj\Debug\net6.0-windows\KibanaJsonQuery.csproj.GenerateResource.cache

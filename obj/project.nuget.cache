@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zw4DT8Q71TBTS+kVatUDQddkD1aUJfl1TY5SMVtZ4ZY7tmhhuVKlj3UMkrpZEemY0f3LpUCvSrW6kTD4N4PcXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akoka\\Desktop\\elastic\\KibanaJsonQuery\\KibanaJsonQuery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akoka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\akoka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\akoka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\akoka\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
